@@ -16,10 +16,10 @@ echo "---开始安装docker---"
 echo y | sudo sh install_docker.sh
 echo "---docker安装完成---"
 
-echo "---开始安装docker---"
+echo "---开始安装es---"
 echo y | sudo sh install_es.sh
-echo "---docker安装完成---"
+echo "---es安装完成---"
 
-echo "---开始安装docker---"
+echo "---开始安装mangodb---"
 echo y | sudo sh install_mangodb.sh
-echo "---docker安装完成---"
+echo "---mangodb安装完成---"
